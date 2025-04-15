@@ -1,0 +1,6 @@
+streamlit
+pytube
+openai-whisper
+pandas
+nltk
+yt-dlp
